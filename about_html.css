@@ -1,0 +1,54 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#menu_3e8f3b69 a { text-decoration: none; }
+#menu_3e8f3b69_pane { background-color: #2C2825; border: 1px solid #646464; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_3e8f3b69_hr { background-color: #646464; height: 1px; border: none; }
+#menu_3e8f3b69_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_3e8f3b69_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_3e8f3b69_entry:hover span { color:#FFFFFF !important; }
+		.menu_3e8f3b69_mainMenuEntry { text-align: center; }
+		.menu_3e8f3b69_mainMenuEntry:hover {	background-color:#FFFFFF; }
+		.menu_3e8f3b69_mainMenuEntry:hover span {	color:#000000 !important; }
+		#menu_3e8f3b69 .mobileEntry { display: none; } 
+		#menu_3e8f3b69 .normalEntry { display: block; } 
+		@media only screen and (max-width:450px) { 
+			#menu_3e8f3b69 .mobileEntry { display: block; } 
+			#menu_3e8f3b69 .normalEntry { display: none; } 
+		}
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_7d6a29db { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:201px; max-width:1024px; background-color:#FFFFFF; background-image: url(rc_images/skyscraper1_dark.jpg); background-position:top center; background-size:cover;  }
+#container_7d6a29db_padding { margin: 10px; display: block;  }
+#menu_3e8f3b69 { vertical-align: bottom; position:relative; display: inline-block; width:552px; height:34px; max-width:800px; text-align:left; background-color:#000000; background: linear-gradient(to bottom, #FFFFFF, #000000);  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.menustyle1 { position:absolute; width:100px; height:34px; left:10px;  }
+.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:23px;  }
+.textstyle2 { font-size:13pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap; }
+.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:21px;  }
+.textstyle3 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap; }
+.menustyle2 { position:absolute; width:136px; height:34px; left:110px;  }
+.menustyle3 { position:absolute; width:100px; height:34px; left:246px;  }
+.menustyle4 { position:absolute; width:100px; height:34px; left:346px;  }
+.menustyle5 { position:absolute; width:100px; height:34px; left:446px;  }
+.textstyle4 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap; }
+.textstyle5 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000;  }
+#heading_3e2f3caf { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:18pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; text-align:left; font-weight:bold;  }
+.textstyle6 { font-size:16pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; line-height: 1.5;  }
+.textstyle7 { font-size:16pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold; line-height: 1.5;  }
+.textstyle8 { text-align:left; }
+#img_601ef2ee { position:absolute; left:2%; top:6%; width:14%; background:none; height:auto;  }
+#container_37e2884d { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:45px; background-color:#2C2825;  }
+#container_37e2884d_padding { margin: 10px; display: block;  }
+#container_652d45cd { vertical-align: top; position:relative; display: inline-block; width:86%; min-height:132px; max-width:800px; background-color:#CECECE;  }
+#container_652d45cd_padding { margin: 10px; display: block;  }
+.textstyle9 { font-size:20pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; font-weight:bold; line-height: 1.5;  }
+.textstyle10 { text-align:justify; }
+.textstyle11 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#000000; font-weight:bold; line-height: 1.5;  }
+.textstyle12 { font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+@media only screen and (max-width: 450px)
+{
+		#menu_3e8f3b69 { width:100px;  }
+}
